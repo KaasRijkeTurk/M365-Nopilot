@@ -2,7 +2,7 @@
 
 An automated Discord bot that analyzes and sorts YouTube playlists using local AI. Powered by Ollama and the YouTube Data API v3.
 
-CURRENT VERSION: EN only
+Languages: EN
 
 ---
 
