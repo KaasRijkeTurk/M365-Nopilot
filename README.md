@@ -175,10 +175,6 @@ Set the Playlist IDs where sorted videos should be moved:
 
 ---
 
-## License
-
-MIT
-
----
-
 *Created by [KaasRijkeTurk](https://github.com/KaasRijkeTurk)*
+
+*Licensed under MIT License*
